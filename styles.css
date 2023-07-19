@@ -1,0 +1,18 @@
+body {
+    margin: 0px;
+}
+.header {
+padding: 10px;
+background-color: aqua;
+text-align: center;
+}
+.header h2 {
+    color: black;
+}
+.nav {
+    background-color: blue;
+    padding: 5px;
+}
+.nav li {
+
+}

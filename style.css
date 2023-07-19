@@ -1,0 +1,31 @@
+body {
+    background-color: hsl(0, 0%, 100%);
+}
+.headings { 
+    color: lightgreen;
+    font-family: cursive;
+    background-color: black; }
+
+    .fruit {
+        background-color: orange;
+        color: white;
+        padding: 10px;
+    } 
+    
+    .center {
+        text-align: center;
+    }
+    #Cars {
+        padding: 40px;
+        background-color: lightblue;
+        color: black;    
+        text-align: center;
+        } 
+        
+        #Bikes
+        {
+        padding: 50px;
+        background-color: lightGreen;
+        text-align: center;
+        }
+        
