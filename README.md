@@ -1,2 +1,0 @@
-# simple-project
-my project
